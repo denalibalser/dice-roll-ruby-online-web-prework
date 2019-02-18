@@ -4,5 +4,5 @@
 
 def roll(array)
   array = [1, 2, 3, 4, 5, 6]
-  item = myArray[rand(array.length)]
+  item = array[rand(array.length)]
 end
