@@ -5,5 +5,5 @@
 def roll(array)
   array.sample(1 + rand(array.count))
   array = [1,2,3,4,5,6]
-end 
+end
   
